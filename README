@@ -1,0 +1,2 @@
+git-list-closed is a tool to list Git branches that are associated
+with closed Rietveld issues.
